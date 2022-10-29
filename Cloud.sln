@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cloud Web", "Cloud Web\Cloud Web.vbproj", "{8FAC2638-9B9D-4573-B70A-D5767966C66F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cloud", "..\CloudNew\Cloud\Cloud.csproj", "{79AD1D4E-5F24-4DA9-9FD9-CD893F4FB651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crowd", "..\C\Crowd\Crowd.csproj", "{3381CCAE-0FB7-4C9E-93AF-7E653BD19E52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FAC2638-9B9D-4573-B70A-D5767966C66F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAC2638-9B9D-4573-B70A-D5767966C66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAC2638-9B9D-4573-B70A-D5767966C66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAC2638-9B9D-4573-B70A-D5767966C66F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79AD1D4E-5F24-4DA9-9FD9-CD893F4FB651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AD1D4E-5F24-4DA9-9FD9-CD893F4FB651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AD1D4E-5F24-4DA9-9FD9-CD893F4FB651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AD1D4E-5F24-4DA9-9FD9-CD893F4FB651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3381CCAE-0FB7-4C9E-93AF-7E653BD19E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3381CCAE-0FB7-4C9E-93AF-7E653BD19E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3381CCAE-0FB7-4C9E-93AF-7E653BD19E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3381CCAE-0FB7-4C9E-93AF-7E653BD19E52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC2CB8C6-ECC9-4912-ABC6-C69AAEC48DB8}
+	EndGlobalSection
+EndGlobal
